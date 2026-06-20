@@ -8,19 +8,6 @@
   Research project exploring external game tooling techniques for Roblox Violence District.
 </p>
 
-## Credits
-
-### Development
-
-**parkllov**  
-Lead Developer & Project Maintainer
-
-### Acknowledgements
-
-This project was created for research and educational purposes, focusing on external tooling architecture, rendering techniques, memory interaction, and modular software design.
-
----
-
 ---
 
 ## Features
@@ -52,6 +39,20 @@ This project was created for research and educational purposes, focusing on exte
 </p>
 
 ---
+
+## Credits
+
+### Development
+
+**parkllov**  
+Lead Developer & Project Maintainer
+
+### Acknowledgements
+
+This project was created for research and educational purposes, focusing on external tooling architecture, rendering techniques, memory interaction, and modular software design.
+
+---
+
 
 ## Project Structure
 
