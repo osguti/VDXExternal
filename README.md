@@ -44,9 +44,28 @@
 
 ```txt
 VDXExternal/
+│
 ├── Core/
+│   ├── DistrictClient.cs
+│   ├── DistrictOverlay.cs
+│   ├── LicenseService.cs
+│   └── TrackedEntity.cs
+│
 ├── SDK/
-├── Overlay/
-├── Features/
+│   └── ApplicationPaths.cs
+│
 ├── Utils/
-└── Config/
+│   └── ClientSettings.cs
+│
+├── Config/
+│
+├── Overlay/
+│
+├── Features/
+│
+├── Properties/
+│
+├── README.md
+├── build.bat
+├── VDXExternal.csproj
+└── .gitignore
