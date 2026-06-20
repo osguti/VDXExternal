@@ -8,20 +8,6 @@
   Research project exploring external game tooling techniques for Roblox Violence District.
 </p>
 
----
-
-## Features
-
-- External architecture
-- Overlay rendering
-- ESP framework
-- Camera utilities
-- Configuration system
-- High-performance memory access
-- Modular design
-
----
-
 ## Credits
 
 ### Development
@@ -35,6 +21,19 @@ This project was created for research and educational purposes, focusing on exte
 
 ---
 
+---
+
+## Features
+
+- External architecture
+- Overlay rendering
+- ESP framework
+- Camera utilities
+- Configuration system
+- High-performance memory access
+- Modular design
+
+---
 
 ## Gallery
 
