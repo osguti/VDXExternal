@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\pgit\roblox\SourceCode\bin\Release\net40\ViolenceDistrictClient.exe.config
+C:\Users\Administrator\Documents\pgit\roblox\SourceCode\bin\Release\net40\ViolenceDistrictClient.exe
+C:\Users\Administrator\Documents\pgit\roblox\SourceCode\bin\Release\net40\ViolenceDistrictClient.pdb
+C:\Users\Administrator\Documents\pgit\roblox\SourceCode\obj\Release\net40\ViolenceDistrictClient.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\pgit\roblox\SourceCode\obj\Release\net40\ViolenceDistrictClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\pgit\roblox\SourceCode\obj\Release\net40\ViolenceDistrictClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\pgit\roblox\SourceCode\obj\Release\net40\ViolenceDistrictClient.exe
+C:\Users\Administrator\Documents\pgit\roblox\SourceCode\obj\Release\net40\ViolenceDistrictClient.pdb
+C:\Users\Administrator\Documents\pgit\roblox\SourceCode\build\ViolenceDistrictClient.exe.config
+C:\Users\Administrator\Documents\pgit\roblox\SourceCode\build\ViolenceDistrictClient.exe
+C:\Users\Administrator\Documents\pgit\roblox\SourceCode\build\ViolenceDistrictClient.pdb

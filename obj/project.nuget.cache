@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IhPz6a0tZxc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\pgit\\roblox\\SourceCode\\ViolenceDistrictClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.3\\microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
