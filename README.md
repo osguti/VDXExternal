@@ -22,6 +22,20 @@
 
 ---
 
+## Credits
+
+### Development
+
+**parkllov**  
+Lead Developer & Project Maintainer
+
+### Acknowledgements
+
+This project was created for research and educational purposes, focusing on external tooling architecture, rendering techniques, memory interaction, and modular software design.
+
+---
+
+
 ## Gallery
 
 <p align="center">
